@@ -1,5 +1,6 @@
 = Powering Preply’s online education platform with CI/CD
-Amet Umerov
+
+By Amet Umerov
 
 == SUMMARY
 
