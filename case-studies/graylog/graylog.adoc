@@ -1,6 +1,6 @@
 = Modernizing Graylog’s DevOps Infrastructure To Support A Complex & Dynamic Platform
 
-Donald Morton and Alyssa Tong
+By Donald Morton and Alyssa Tong
 
 == SUMMARY
 
