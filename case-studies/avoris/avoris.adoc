@@ -1,6 +1,6 @@
 = Reinventing travel with an inventive technology platform
 
-Alejandro Alvarez Vazquez and Alyssa Tong
+By Alejandro Alvarez Vazquez and Alyssa Tong
 
 == Solution
 
