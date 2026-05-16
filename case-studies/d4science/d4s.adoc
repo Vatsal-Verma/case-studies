@@ -1,6 +1,6 @@
 = D4Science Amps Up Their Scientific Research Platform With CI/CD Powered By Jenkins
 
-Alyssa Tong and Manuele Simi
+By Alyssa Tong and Manuele Simi
 
 == SUMMARY
 
