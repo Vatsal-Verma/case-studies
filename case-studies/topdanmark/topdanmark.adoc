@@ -1,6 +1,6 @@
 = Automating the build processes with a highly-configurable Jenkins platform
 
-Jon Brohauge and Alyssa Tong
+By Jon Brohauge and Alyssa Tong
 
 == Summary
 
